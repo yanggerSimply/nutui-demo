@@ -14,7 +14,7 @@
     "@nutui/babel-plugin-separate-import": "^1.2.2",
     "@nutui/nutui": "^2.3.0",
     "node-sass": "^4.13.1",
-    "nuxt": "^2.0.0",
+    "nuxt": "^4.6.3",
     "sass-loader": "^8.0.2"
   },
   "devDependencies": {}
